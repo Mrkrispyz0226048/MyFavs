@@ -13,22 +13,14 @@
 		904D47641F82D7A6008D61B2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 904D47621F82D7A6008D61B2 /* Main.storyboard */; };
 		904D47661F82D7A6008D61B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 904D47651F82D7A6008D61B2 /* Assets.xcassets */; };
 		904D47691F82D7A6008D61B2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 904D47671F82D7A6008D61B2 /* LaunchScreen.storyboard */; };
-		904D47811F82DBBB008D61B2 /* 38 Special.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 904D47711F82DBBB008D61B2 /* 38 Special.jpg */; };
-		904D47821F82DBBB008D61B2 /* 45647127.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 904D47721F82DBBB008D61B2 /* 45647127.jpg */; };
-		904D47831F82DBBB008D61B2 /* Band Perry.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 904D47731F82DBBB008D61B2 /* Band Perry.jpg */; };
-		904D47841F82DBBB008D61B2 /* Eagles.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 904D47741F82DBBB008D61B2 /* Eagles.jpg */; };
-		904D47851F82DBBB008D61B2 /* Joe Cocker.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 904D47751F82DBBB008D61B2 /* Joe Cocker.jpg */; };
-		904D47861F82DBBB008D61B2 /* Journey.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 904D47761F82DBBB008D61B2 /* Journey.jpg */; };
-		904D47871F82DBBB008D61B2 /* Leonard Skynard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 904D47771F82DBBB008D61B2 /* Leonard Skynard.jpg */; };
-		904D47881F82DBBB008D61B2 /* Little Big Town.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 904D47781F82DBBB008D61B2 /* Little Big Town.jpg */; };
-		904D47891F82DBBB008D61B2 /* logo76.png in Resources */ = {isa = PBXBuildFile; fileRef = 904D47791F82DBBB008D61B2 /* logo76.png */; };
-		904D478A1F82DBBB008D61B2 /* logo152.png in Resources */ = {isa = PBXBuildFile; fileRef = 904D477A1F82DBBB008D61B2 /* logo152.png */; };
-		904D478B1F82DBBB008D61B2 /* logo291.png in Resources */ = {isa = PBXBuildFile; fileRef = 904D477B1F82DBBB008D61B2 /* logo291.png */; };
-		904D478C1F82DBBB008D61B2 /* logo292.png in Resources */ = {isa = PBXBuildFile; fileRef = 904D477C1F82DBBB008D61B2 /* logo292.png */; };
-		904D478D1F82DBBB008D61B2 /* logo401.png in Resources */ = {isa = PBXBuildFile; fileRef = 904D477D1F82DBBB008D61B2 /* logo401.png */; };
-		904D478E1F82DBBB008D61B2 /* logo402.png in Resources */ = {isa = PBXBuildFile; fileRef = 904D477E1F82DBBB008D61B2 /* logo402.png */; };
-		904D478F1F82DBBB008D61B2 /* Main.png in Resources */ = {isa = PBXBuildFile; fileRef = 904D477F1F82DBBB008D61B2 /* Main.png */; };
-		904D47901F82DBBB008D61B2 /* Miranda Lambert.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 904D47801F82DBBB008D61B2 /* Miranda Lambert.jpg */; };
+		BBAD6F342166F0F8001C9C22 /* missy elliot.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BBAD6F2C2166F0F7001C9C22 /* missy elliot.jpeg */; };
+		BBAD6F352166F0F8001C9C22 /* Allen Stone.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BBAD6F2D2166F0F7001C9C22 /* Allen Stone.jpeg */; };
+		BBAD6F362166F0F8001C9C22 /* Drake.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BBAD6F2E2166F0F8001C9C22 /* Drake.jpeg */; };
+		BBAD6F372166F0F8001C9C22 /* Chance the rapper.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BBAD6F2F2166F0F8001C9C22 /* Chance the rapper.jpg */; };
+		BBAD6F382166F0F8001C9C22 /* Adele.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BBAD6F302166F0F8001C9C22 /* Adele.jpeg */; };
+		BBAD6F392166F0F8001C9C22 /* Meek Mill.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BBAD6F312166F0F8001C9C22 /* Meek Mill.jpeg */; };
+		BBAD6F3A2166F0F8001C9C22 /* Rihanna.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BBAD6F322166F0F8001C9C22 /* Rihanna.jpeg */; };
+		BBAD6F3B2166F0F8001C9C22 /* Kendrick Lamar.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BBAD6F332166F0F8001C9C22 /* Kendrick Lamar.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,22 +32,14 @@
 		904D47651F82D7A6008D61B2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		904D47681F82D7A6008D61B2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		904D476A1F82D7A6008D61B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		904D47711F82DBBB008D61B2 /* 38 Special.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "38 Special.jpg"; sourceTree = "<group>"; };
-		904D47721F82DBBB008D61B2 /* 45647127.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 45647127.jpg; sourceTree = "<group>"; };
-		904D47731F82DBBB008D61B2 /* Band Perry.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Band Perry.jpg"; sourceTree = "<group>"; };
-		904D47741F82DBBB008D61B2 /* Eagles.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Eagles.jpg; sourceTree = "<group>"; };
-		904D47751F82DBBB008D61B2 /* Joe Cocker.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Joe Cocker.jpg"; sourceTree = "<group>"; };
-		904D47761F82DBBB008D61B2 /* Journey.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Journey.jpg; sourceTree = "<group>"; };
-		904D47771F82DBBB008D61B2 /* Leonard Skynard.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Leonard Skynard.jpg"; sourceTree = "<group>"; };
-		904D47781F82DBBB008D61B2 /* Little Big Town.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Little Big Town.jpg"; sourceTree = "<group>"; };
-		904D47791F82DBBB008D61B2 /* logo76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo76.png; sourceTree = "<group>"; };
-		904D477A1F82DBBB008D61B2 /* logo152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo152.png; sourceTree = "<group>"; };
-		904D477B1F82DBBB008D61B2 /* logo291.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo291.png; sourceTree = "<group>"; };
-		904D477C1F82DBBB008D61B2 /* logo292.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo292.png; sourceTree = "<group>"; };
-		904D477D1F82DBBB008D61B2 /* logo401.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo401.png; sourceTree = "<group>"; };
-		904D477E1F82DBBB008D61B2 /* logo402.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo402.png; sourceTree = "<group>"; };
-		904D477F1F82DBBB008D61B2 /* Main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Main.png; sourceTree = "<group>"; };
-		904D47801F82DBBB008D61B2 /* Miranda Lambert.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Miranda Lambert.jpg"; sourceTree = "<group>"; };
+		BBAD6F2C2166F0F7001C9C22 /* missy elliot.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "missy elliot.jpeg"; sourceTree = "<group>"; };
+		BBAD6F2D2166F0F7001C9C22 /* Allen Stone.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Allen Stone.jpeg"; sourceTree = "<group>"; };
+		BBAD6F2E2166F0F8001C9C22 /* Drake.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Drake.jpeg; sourceTree = "<group>"; };
+		BBAD6F2F2166F0F8001C9C22 /* Chance the rapper.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Chance the rapper.jpg"; sourceTree = "<group>"; };
+		BBAD6F302166F0F8001C9C22 /* Adele.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Adele.jpeg; sourceTree = "<group>"; };
+		BBAD6F312166F0F8001C9C22 /* Meek Mill.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Meek Mill.jpeg"; sourceTree = "<group>"; };
+		BBAD6F322166F0F8001C9C22 /* Rihanna.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Rihanna.jpeg; sourceTree = "<group>"; };
+		BBAD6F332166F0F8001C9C22 /* Kendrick Lamar.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Kendrick Lamar.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,22 +87,14 @@
 		904D47701F82DB76008D61B2 /* photos */ = {
 			isa = PBXGroup;
 			children = (
-				904D47711F82DBBB008D61B2 /* 38 Special.jpg */,
-				904D47721F82DBBB008D61B2 /* 45647127.jpg */,
-				904D47731F82DBBB008D61B2 /* Band Perry.jpg */,
-				904D47741F82DBBB008D61B2 /* Eagles.jpg */,
-				904D47751F82DBBB008D61B2 /* Joe Cocker.jpg */,
-				904D47761F82DBBB008D61B2 /* Journey.jpg */,
-				904D47771F82DBBB008D61B2 /* Leonard Skynard.jpg */,
-				904D47781F82DBBB008D61B2 /* Little Big Town.jpg */,
-				904D47791F82DBBB008D61B2 /* logo76.png */,
-				904D477A1F82DBBB008D61B2 /* logo152.png */,
-				904D477B1F82DBBB008D61B2 /* logo291.png */,
-				904D477C1F82DBBB008D61B2 /* logo292.png */,
-				904D477D1F82DBBB008D61B2 /* logo401.png */,
-				904D477E1F82DBBB008D61B2 /* logo402.png */,
-				904D477F1F82DBBB008D61B2 /* Main.png */,
-				904D47801F82DBBB008D61B2 /* Miranda Lambert.jpg */,
+				BBAD6F302166F0F8001C9C22 /* Adele.jpeg */,
+				BBAD6F2D2166F0F7001C9C22 /* Allen Stone.jpeg */,
+				BBAD6F2F2166F0F8001C9C22 /* Chance the rapper.jpg */,
+				BBAD6F2E2166F0F8001C9C22 /* Drake.jpeg */,
+				BBAD6F332166F0F8001C9C22 /* Kendrick Lamar.jpeg */,
+				BBAD6F312166F0F8001C9C22 /* Meek Mill.jpeg */,
+				BBAD6F2C2166F0F7001C9C22 /* missy elliot.jpeg */,
+				BBAD6F322166F0F8001C9C22 /* Rihanna.jpeg */,
 			);
 			name = photos;
 			sourceTree = "<group>";
@@ -182,25 +158,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				904D478F1F82DBBB008D61B2 /* Main.png in Resources */,
-				904D47841F82DBBB008D61B2 /* Eagles.jpg in Resources */,
-				904D478E1F82DBBB008D61B2 /* logo402.png in Resources */,
-				904D47831F82DBBB008D61B2 /* Band Perry.jpg in Resources */,
-				904D47851F82DBBB008D61B2 /* Joe Cocker.jpg in Resources */,
-				904D478B1F82DBBB008D61B2 /* logo291.png in Resources */,
-				904D478D1F82DBBB008D61B2 /* logo401.png in Resources */,
-				904D47901F82DBBB008D61B2 /* Miranda Lambert.jpg in Resources */,
-				904D478A1F82DBBB008D61B2 /* logo152.png in Resources */,
-				904D47821F82DBBB008D61B2 /* 45647127.jpg in Resources */,
+				BBAD6F372166F0F8001C9C22 /* Chance the rapper.jpg in Resources */,
+				BBAD6F382166F0F8001C9C22 /* Adele.jpeg in Resources */,
 				904D47691F82D7A6008D61B2 /* LaunchScreen.storyboard in Resources */,
-				904D47871F82DBBB008D61B2 /* Leonard Skynard.jpg in Resources */,
-				904D478C1F82DBBB008D61B2 /* logo292.png in Resources */,
-				904D47811F82DBBB008D61B2 /* 38 Special.jpg in Resources */,
+				BBAD6F392166F0F8001C9C22 /* Meek Mill.jpeg in Resources */,
 				904D47661F82D7A6008D61B2 /* Assets.xcassets in Resources */,
-				904D47881F82DBBB008D61B2 /* Little Big Town.jpg in Resources */,
+				BBAD6F3A2166F0F8001C9C22 /* Rihanna.jpeg in Resources */,
+				BBAD6F352166F0F8001C9C22 /* Allen Stone.jpeg in Resources */,
 				904D47641F82D7A6008D61B2 /* Main.storyboard in Resources */,
-				904D47861F82DBBB008D61B2 /* Journey.jpg in Resources */,
-				904D47891F82DBBB008D61B2 /* logo76.png in Resources */,
+				BBAD6F342166F0F8001C9C22 /* missy elliot.jpeg in Resources */,
+				BBAD6F362166F0F8001C9C22 /* Drake.jpeg in Resources */,
+				BBAD6F3B2166F0F8001C9C22 /* Kendrick Lamar.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
